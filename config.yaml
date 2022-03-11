@@ -25,7 +25,7 @@ dns:
 
 proxies:
   - name: sshinjector-real8oiiu
-    server: cf-vod.nimo.tv
+    server: cdn.onlymega.com
     port: 443
     type: vmess
     uuid: eca50aa4-c027-4b57-9843-e3150fd791fd
